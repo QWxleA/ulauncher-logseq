@@ -1,8 +1,8 @@
 {
   "required_api_version": "^2.0.0",
-  "name": "jrnl.sh",
-  "description": "Add entries to your jrnl (https://jrnl.sh/)",
-  "developer_name": "Sebastien Wains",
+  "name": "2logseq",
+  "description": "Add entries to your logseq inbox or daily file",
+  "developer_name": "Alex Qwxlea",
   "icon": "images/logo.png",
   "options": {
     "query_debounce": 0.1
@@ -11,15 +11,15 @@
     {
       "id": "demo_kw",
       "type": "keyword",
-      "name": "jrnl",
-      "default_value": "j"
+      "name": "logseq",
+      "default_value": "l"
     },
     {
-      "id": "setting_path",
+      "id": "logseq_path",
       "type": "text",
-      "name": "Location of jrnl binary",
-      "description": "Examples: /home/yourusername/.local/bin/jrnl, /usr/local/bin/jrnl",
-      "default_value": "/home/change/the/path/.local/bin/jrnl"
+      "name": "Location of your Logseq Library",
+      "description": "Examples: /home/yourusername/Documents/Logseq",
+      "default_value": "/home/yourusername/Documents/Logseq"
     },
     {
       "id": "setting_limit",

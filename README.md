@@ -23,6 +23,6 @@ Markdown supported in `your entry`.
 
 ## Demo
 
-Needs to be updated (but it mostly looks like this 
+Needs to be updated (but it basically looks like this): 
 
-<img aligh="center" src="https://raw.githubusercontent.com/sebw/ulauncher-jrnl/master/demo.gif">
+<img aligh="center" src="https://raw.githubusercontent.com/QWxleA/ulauncher-logseq/master/demo.gif">

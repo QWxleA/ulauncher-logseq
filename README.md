@@ -16,6 +16,13 @@ Markdown supported in `your entry`.
 - Ulauncher: [https://ulauncher.io](https://ulauncher.io) (Linux!)
 - Logseq: [https://logseq.com/](https://logseq.com/)
 
+## Installation
+
+`cd $HOME/.local/share/ulauncher/extensions`
+`git clone git@github.com:QWxleA/ulauncher-logseq.git com.github.QWxleA.ulauncher-logseq`
+
 ## Demo
+
+Needs to be updated (but it mostly looks like this 
 
 <img aligh="center" src="https://raw.githubusercontent.com/sebw/ulauncher-jrnl/master/demo.gif">
